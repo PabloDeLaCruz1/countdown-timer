@@ -1,2 +1,2 @@
-![Alt text](Countdown Timer/css/sample.png?raw=true "Countdown View Sample")
+![Alt text](css/sample.png?raw=true "Countdown View Sample")
 
